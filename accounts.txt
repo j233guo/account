@@ -1,0 +1,4 @@
+batman,1234,Bruce,Wayne,Checking,500000.00
+batman,1234,Bruce,Wayne,Savings,1400000.00
+infinityStones,3168,Thanos,Badman,Checking,1000.00
+diana,1891,Wonder,Woman,Savings,250000.00
